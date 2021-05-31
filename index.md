@@ -1,19 +1,17 @@
 ---
-title: "Principal"
+title: "Ondas Gravitacionais - Brasil"
 mathjax: true
 layout: page
 youtubeId: acHmN2MlJQQ
 ---
 
-## OGBR
+Olá, seja bem-vinda(o) ao OGBR, um site dedicado a coletar materiais e
+apresentar conteúdo relacionados a área de ondas gravitacionais. O "OG" é de
+ondas gravitacionais. O "BR" é de Brasil, o público alvo desse site.
 
-Olá, seja bem-vinda(o) ao OGBR, um site dedicado a coletar materiais e apresentar
-conteúdo relacionados a área de ondas gravitacionais. O "OG" é de ondas graviacionais.
-O "BR" de Brasil, o público alvo desse site.
-
-No momento o site está em estágio inicial de preparação. Por ora, que tal
-assistir uma simulação da primeiríssima detecção de ondas gravitacionais, o
-evento GW150914?
+No momento o site se encontra em estágio inicial de preparação.
+Por ora, que tal assistir uma simulação da primeiríssima detecção de ondas
+gravitacionais, o evento GW150914?
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
