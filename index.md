@@ -23,7 +23,7 @@ velocidade da luz, emitindo o equivalente a 3 massas solares de energia em
 forma de ondas gravitacionais, perturbações no espaço-tempo que viajaram 1.4
 bilhões de anos luz até chegar na Terra.
 
-Interessante, não? O objetivo desse site é explicar como chegamos as essas
-conclusões, como a detecção desse evento (e de outros) foram feitos e o que
-pode-se aprender sobre o Universe nessa nova era da **astronomia de ondas
+Interessante, não? O objetivo desse site é explicar como chegamos a essas
+conclusões, como a detecção desse evento (e de já outros 50) foram feitos e o que
+se pode aprender sobre o Universe nessa nova era da **astronomia de ondas
 gravitacionais**.
