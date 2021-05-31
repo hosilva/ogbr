@@ -20,7 +20,7 @@ evento GW150914?
 No dia 14 de Setembro de 2015, os detectores da colaboração LIGO em Hanford e
 Livingston nos EUA detectaram as ondas gravitacionais produzidas pela
 coalescência de dois buracos negros de aproximadamente 30 massas solares (uma
-massa solar é aproximademente $$10^{30}$$ kg!) colidindo com 0.5% a
+massa solar é aproximademente $$10^{30}$$ kg!) colidindo com 50% a
 velocidade da luz, emitindo o equivalente a 3 massas solares de energia em
 forma de ondas gravitacionais, perturbações no espaço-tempo que viajaram 1.4
 bilhões de anos luz até chegar na Terra.
